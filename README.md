@@ -382,17 +382,17 @@ Authorization: Bearer <your_access_token>
 
 ## API Screenshots
 
-### Login
+Login
 ![Login](screenshots/02_login.png)
 
-### Add Patient
+Add Patient
 ![Add Patient](screenshots/03_add_patient.png)
 
-### Get Patient by ID
+Get Patient by ID
 ![Get Patient by ID](screenshots/05_get_patient_by_id.png)
 
-### Add Doctor
+Add Doctor
 ![Add Doctor](screenshots/06_add_doctor.png)
 
-### Assign Doctor to Patient
+Assign Doctor to Patient
 ![Assign Doctor](screenshots/07_assign_doctor.png)
